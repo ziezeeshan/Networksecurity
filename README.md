@@ -1,4 +1,4 @@
-# Hi, I'm Muhammad Zeeshan
+# Muhammad Zeeshan
 
 **Cybersecurity Analyst | Security Researcher | Smart Contract Auditor | Advanced Pentester**  
 Helping organizations stay ahead of adversaries through deep offensive expertise, threat research, and Web3 exploit development.
@@ -7,18 +7,28 @@ Helping organizations stay ahead of adversaries through deep offensive expertise
 
 ## Areas of Expertise
 
-### Cybersecurity Analyst
-- Real-time SOC Tier 1+ monitoring and incident triage
-- Threat intelligence integration, IOC/IOA enrichment
-- Tools: `Splunk Enterprise Security`, `IBM QRadar`, `CrowdStrike Falcon`, `Elastic Security`, `Darktrace`
+### Advanced Penetration Testing & Vulnerability Assessment
+- Enterprise-grade red teaming with stealth and evasion
+- Custom C2 development, AV/EDR bypass techniques
+- Adversary simulation, privilege escalation chaining
+
+#### Offensive Tooling:
+- `Cobalt Strike`, `Brute Ratel C4`, `Core Impact`, `Immunity CANVAS`, `Metasploit Pro`, `Nessus Professional`, `Nexpose`, `Burp Suite Professional`, `Qualys VMDR`, `Acunetix Premium`
+
+#### Testing Scope:
+- Network & web application pentests, API abuse chains
+- Internal AD exploitation (Kerberoasting, ACL abuse)
+- Wireless, phishing, physical and hybrid testing
 
 ---
 
-### Security Researcher
+### Cyber-Defense-Research
+- Real-time SOC Tier 1+ monitoring and incident triage
+- Threat intelligence integration, IOC/IOA enrichment
 - Reverse engineering malware & binaries (x86/x64)
 - Vulnerability research, exploit PoC creation
 - Threat actor TTP profiling (MITRE ATT&CK mapping)
-- Tools: `IDA Pro`, `Hex-Rays`, `Ghidra`, `Radare2`, `Cuckoo Sandbox`, `Binary Ninja`, `Maltego XL`
+- Tools: `Microsoft Sentinel`, `Splunk Enterprise Security`, `IBM QRadar`, `CrowdStrike Falcon`, `Elastic Security`, `Darktrace`, `IDA Pro`, `Hex-Rays`, `Ghidra`, `Binary Ninja`, `Cuckoo Sandbox`, `Frida`, `Radare2`, `Maltego XL`, `dnSpy`
 
 ---
 
@@ -37,24 +47,11 @@ Helping organizations stay ahead of adversaries through deep offensive expertise
 
 ---
 
-### Advanced Penetration Testing & Vulnerability Assessment
-- Enterprise-grade red teaming with stealth and evasion
-- Custom C2 development, AV/EDR bypass techniques
-- Adversary simulation, privilege escalation chaining
+## Certifications
 
-#### Offensive Tooling:
-- `Cobalt Strike`, `Brute Ratel C4`, `Core Impact`, `Immunity CANVAS`, `Metasploit Pro`, `Nessus Professional`, `Nexpose`, `Burp Suite Professional`, `Qualys VMDR`, `Acunetix Premium`
+- Certified AppSec Practitioner `The SecOps Group`
+- Ethical Hacker `Ciso`
 
-#### Testing Scope:
-- Network & web application pentests, API abuse chains
-- Internal AD exploitation (Kerberoasting, ACL abuse)
-- Wireless, phishing, physical and hybrid testing
-
----
-
-## 🧰 Full Tool Stack
-
-`Cobalt Strike` • `Brute Ratel C4` • `Foundry` • `IDA Pro` • `Certora` • `Slither Pro` • `MythX Pro` • `CrowdStrike` • `Splunk Enterprise` • `Darktrace` • `Hex-Rays` • `Burp Suite Pro` • `Nessus Pro` • `Acunetix Premium` • `Core Impact` • `CANVAS` • `Elastic SIEM`
 
 ---
 
